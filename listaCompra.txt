@@ -1,8 +1,7 @@
 Agua
-PAn
+Pan
 Detergente
-<<<<<<< HEAD
 Leche
-=======
-NuecesLimonada
->>>>>>> d8c8720557f815ea23e9708e75dbd62a94edb7c8
+Nueces
+Limonada
+Turrrón
