@@ -2,4 +2,4 @@
 
 **Esto está en negrita**
 
-_Esto está en cursiva_
+*Esto está en cursiva*
